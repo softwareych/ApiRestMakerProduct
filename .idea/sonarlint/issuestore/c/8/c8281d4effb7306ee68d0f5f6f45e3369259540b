@@ -1,0 +1,11 @@
+
+‹
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(þ‘‹„8ÄìœØê1J$3947cb1f-6dc9-4947-9eaa-a50617f0c23f
+„
+java:S1128"<Remove this unused import 'jakarta.persistence.CascadeType'.(ÃÃÊŠúÿÿÿÿ8ÅìœØê1J$85465b25-7d76-4fb2-aeed-88fec8cb592b
+y
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8ÆìœØê1J$5aa15e41-2a8d-40e5-821f-dfe82f3df45c
+‚
+java:S1128":Remove this unused import 'jakarta.persistence.FetchType'.(ŠÂ¤Šûÿÿÿÿ8ÆìœØê1J$8bb899ba-337e-4345-86db-3b6dcc7c89fd
+‚
+java:S1128":Remove this unused import 'jakarta.persistence.OneToMany'.( ëîéúÿÿÿÿ8ÆìœØê1J$d853a13d-e6ee-4f00-8c77-113c3c9df740
